@@ -10,13 +10,13 @@ This video tutorial from Digital Fx Cube shows you how to hack security cameras 
 
 You can easily do a quick Google Search for any unsecured surveillance cameras on the web. The links send you to the camera's video. Not all of the links work though, but when they do, some of the user controls actually allow you to "control" the actual video camera. Cool, huh?
 
-![click to watch video](https://youtu.be/8EIIEFpWzw8)
+[click to watch video](https://youtu.be/8EIIEFpWzw8)
 
 ## How to Hack someone's web cam or online security camera.
 
 This tutorial will let you hack into a wide selection of web cams and online security cameras. The hack is actually quite easy, and is best done with a browser like Mozilla Firefox. Navigate to Google in your browser, and then type in "inurl:viewerframe?mode+refresh". This piece of code will open up a list of active webcams. Then just surf through your choices and watch whatever you want. You can even change the camera angle and zoom in and out of the picture!
 
-![Click to watch the video](https://youtu.be/yRnlgYQpknE)
+[Click to watch the video](https://youtu.be/yRnlgYQpknE)
 
 ## Hackers Have 92% Success Rate Hacking Gmail on Android
 
@@ -38,7 +38,7 @@ In the case of the check deposit on the Chase app, as soon as you enable your ca
 
 You can see how it works in their demo video below.
 
-![click to watch](https://youtu.be/QZZwiT-Df1U)
+[click to watch](https://youtu.be/QZZwiT-Df1U)
 
 ..............................................................
 
