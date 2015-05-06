@@ -40,7 +40,8 @@ You can see how it works in their demo video below.
 
 [click to watch](https://youtu.be/QZZwiT-Df1U)
 
-.........
+..............................................................
+
 This is for Educational purposes only.
 
 
